@@ -1,5 +1,20 @@
 # SneakerSpot - Premium Sneaker Store Website
 
+---
+
+## 📸 Demo
+
+### Product Catalog
+<img src="images/1.png" alt="Background View - Product Catalog" width="100%">
+
+### Checkout Experience
+<img src="images/2.png" alt="Products - Page" width="100%">
+
+### View Item
+<img src="images/3.png" alt="View and order - Page" width="100%">
+
+---
+
 ## Overview
 This is a modern, responsive website template for a premium sneaker store called "SneakerSpot". The website is designed to showcase sneaker products with an attractive and user-friendly interface to help attract customers.
 
