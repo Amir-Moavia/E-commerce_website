@@ -193,11 +193,3 @@ Contributions make the open-source community a fantastic place to learn, inspire
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100061978060282)
 
 ---
-
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/Amir-Moavia">Amir Moavia</a></sub>
-</div>
