@@ -13,12 +13,12 @@
 
 <br/>
 
-🌐 **[Live Demo](https://amir-moavia.github.io/E-commerce_website/)** •
-📸 **[Visual Tour](#-demo--screenshots)** •
-✨ **[Key Features](#-key-features)** •
-🚀 **[Quick Start](#-getting-started)** •
-🎨 **[Design System](#-design-system)** •
-👨‍💻 **[Author](#-connect--author)**
+ **[Live Demo](https://amir-moavia.github.io/E-commerce_website/)** •
+ **[Visual Tour](#-demo--screenshots)** •
+ **[Key Features](#-key-features)** •
+ **[Quick Start](#-getting-started)** •
+ **[Design System](#-design-system)** •
+ **[Author](#-connect--author)**
 
 
 
