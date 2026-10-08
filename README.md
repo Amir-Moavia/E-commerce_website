@@ -193,3 +193,5 @@ Contributions make the open-source community a fantastic place to learn, inspire
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100061978060282)
 
 ---
+
+Also added the schema of this e-commerce website in pdf form
